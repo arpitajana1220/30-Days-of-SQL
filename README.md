@@ -1,4 +1,4 @@
-# 30-Days-of-SQL
-Learning and practicing art of Data analysis with SQL. 
-I intend to solve variety of Data problems. 
-For any suggestions, kindly drop a mail.
+# SQL for Data Engineering
+Learning and practicing SQL for Data Engineering. 
+I intend to solve a variety of Data problems. 
+If you have any suggestions, please feel free to drop a mail.
